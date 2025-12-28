@@ -6,3 +6,6 @@ ____This course was completed as part of my professional development training at
 ***
 
 ## 🔍Project Overview
+
+This repository includes multiple small to medium-sized projects designed to strengthen the understanding of:
+- ok
