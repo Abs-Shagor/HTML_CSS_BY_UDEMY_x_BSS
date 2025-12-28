@@ -1,7 +1,7 @@
 # Modern HTML & CSS From The Beginning
 
-### Overview
+### Overview:
 This repository contains my practice projects and learning materials from the Udemy course **"Modern HTML & CSS From The Beginning (Including Sass)"** by Brad Traversy. Each folder includes hands-on exercises and mini-projects built while mastering modern web development fundamentals — including HTML5, CSS3, Flexbox, CSS Grid, responsive design, and Sass.
 
-__This course was completed as part of my professional development training at BSS
+___This course was completed as part of my professional development training at Bangladesh Software Solution(BSS)
 ***
