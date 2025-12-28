@@ -14,4 +14,4 @@ This repository includes multiple small to medium-sized projects designed to str
 
 | Project Name | Description | Live Demo | Source Code |
 |----------|----------|--------|------------|
-| **VJudge** | [Abs_Shagor56](https://vjudge.net/user/Abs_Shagor56) | 330+ | N/A |
+| **VJudge** | sdas szfgasg dfgassssss | [Link](https://vjudge.net/user/Abs_Shagor56) | [Visit](https://vjudge.net/user/Abs_Shagor56) |
