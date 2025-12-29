@@ -1,12 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>HTML & CSS Sandbox</title>
-  </head>
-  <body>
-    <h1>HTML & CSS Sandbox - Image Map</h1>
-    </map>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HTML & CSS Sandbox</title>
+</head>
+
+<body>
+  <h1>HTML & CSS Sandbox - Image Map</h1>
+  
+  <img src="./computer.jpg" alt="img" usemap="#computer" >
+
+  <map name="computer">
+    <!-- in the cords/cordinates: the first two number indicate the top-left corner and last two indicate the bottum-right corner -->
+    <area shape="rect" coords="34,44,270,340" href="laptop.html" alt="not found">
+    <area shape="rect" coords="290,172,333,250" href="mobile.html" alt="not found">
+    <!-- for circle shape the first two number is the center of the circle and the 3rd one is the radius of the circle -->
+    <area shape="circle" coords="337,300,45" href="cup.html" alt="not found">
+  </map>
+
+</body>
+
 </html>

@@ -1,0 +1,16 @@
+#container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+h3 {
+    color: red;
+    font-size: 35px;
+}
+
+.description {
+    width: 400px;
+
+    font-size: 20px;
+    color: green;
+}

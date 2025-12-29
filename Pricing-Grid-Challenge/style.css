@@ -1,0 +1,93 @@
+/* connecting font awesome by CDN */
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
+
+.container {
+    max-width: 1250px;
+    margin: 50px auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+}
+
+.card {
+    background-color: #FFFFFF;
+    max-width: 250px;
+    padding-block: 15px;
+    padding-inline: 30px;
+    box-shadow: 0 0 5px #27264B;
+    border-radius: 5px;
+}
+.up-title {
+    background-color: #eff2f7;
+    color: #27264B;
+    text-align: center;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 5px;
+}
+.up-title-bg1 {
+    color: white;
+    background: linear-gradient(to right, #C2E2FF, #B685FE);
+}
+.up-title-bg2 {
+    color: white;
+    background: linear-gradient(to right, #FFB1C2, #FFC978);
+}
+.price {
+    color: #27264B;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+.pricex {
+    margin-inline: 3px;
+    font-weight: bolder;
+}
+.price-info {
+    margin-block: 20px;
+    text-align: center;
+    color: #27264B;
+    font-weight: bold;
+    font-size: 14px;
+}
+.main-text {
+    max-width: 200px;
+    margin-inline: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 500;
+    color: #5e5d7c;
+}
+.btn {
+    margin-block: 40px;
+    border: 1px solid #5e5d7c;
+    border-radius: 5px;
+    color: #27264B;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: #27264B;
+    color: white;
+}
+.btn-middle {
+    background-color: #27264B;
+    color: white;
+}
+.btn-middle:hover {
+    background-color: #1a1939;
+}
+.bottum-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: #5e5d7c;
+}
+.right-mark {
+    margin-right: 7px;
+}
