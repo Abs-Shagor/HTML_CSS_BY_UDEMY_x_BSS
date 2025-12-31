@@ -1,0 +1,45 @@
+.container {
+    min-width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: #D1DFE2;
+}
+.card {
+    width: 500px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgb(187, 185, 185);
+}
+.btn {
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: 0 0 5px rgb(182, 140, 140);
+}
+.clr1 {
+    color: #DC3D4A;
+}
+.clr2 {
+    color: #11418B;
+}
+.clr3 {
+    color: #48312A;
+}
+.bg-clr1 {
+    background-color: #DC3D4A;
+}
+.bg-clr2 {
+    background-color: #11418B;
+}
+.bg-clr3 {
+    background-color: #48312A;
+}
