@@ -1,0 +1,19 @@
+.container {
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 10px;
+    background-color: rgb(210, 214, 203);
+    border-radius: 5px;
+}
+.formCls {
+    display: grid;
+    grid-template-columns: repeat((1, 1fr));
+    gap: 15px;
+}
+.btn {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgb(79, 79, 210);
+    color: white;
+    cursor: pointer;
+}

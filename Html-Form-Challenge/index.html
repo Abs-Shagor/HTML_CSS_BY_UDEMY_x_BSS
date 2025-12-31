@@ -1,11 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>HTML & CSS Sandbox</title>
-  </head>
-  <body>
-    <h1>HTML & CSS Sandbox - HTML Form Challenge</h1>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./style.css">
+  <title>HTML & CSS Sandbox</title>
+</head>
+
+<body>
+
+  <div class="container">
+    <h1>Apartment Search</h1>
+
+    <form class="formCls">
+      <div>
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required />
+      </div>
+
+      <div>
+        <label for="price">Price Range:</label>
+        <input type="range" id="price" name="price" min="0" max="10000" step="100" value="1000" />
+      </div>
+
+      <div>
+        <label for="bedCount">Number of Bedrooms:</label>
+        <input type="number" id="bedCount" name="bedCount" min="0" max="10" value="1" required />
+      </div>
+
+      <div>
+        <label for="bathcCount">Number of Bathrooms:</label>
+        <input type="number" id="bathCount" name="bathCount" min="0" max="10" value="1" required />
+      </div>
+
+      <div>
+        <label for="petsCount">Pets Allowed:</label>
+        <input type="checkbox" id="petsCount" name="petsCount" />
+      </div>
+
+      <div>
+        <label for="date">Date Available:</label>
+        <input type="date" id="date" name="date" required />
+      </div>
+
+      <input type="submit" value="Submit" class="btn" />
+    </form>
+  </div>
+</body>
+
 </html>
