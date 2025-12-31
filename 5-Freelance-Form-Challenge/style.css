@@ -1,0 +1,37 @@
+.container {
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card {
+    width: 270px;
+    height: 200px;
+    padding: 50px;
+    background-color: #303843;
+    color: white;
+    text-align: center;
+    box-shadow: 0 0 10px rgb(209, 207, 207);
+}
+.description {
+    color: rgb(237, 235, 235);
+}
+
+.input-filed-container {
+    display: grid;
+    gap: 10px;
+}
+.input-field {
+    padding: 8px;
+    border: none;
+    border-radius: 3px;
+}
+.btn {
+    border: none;
+    border-radius: 3px;
+    padding: 8px;
+    background-color: #F78252;
+    color: white;
+    cursor: pointer;
+}
