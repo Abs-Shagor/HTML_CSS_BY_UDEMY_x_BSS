@@ -1,0 +1,29 @@
+.header {
+    padding: 20px;
+    background-color: cadetblue;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+.main-menu {
+    list-style-type: none;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+    color: rgb(21, 108, 111);
+
+}
+.lead {
+    font-size: 20px;
+    margin-top: 50px;
+}
+.description {
+    color: gray;
+}
