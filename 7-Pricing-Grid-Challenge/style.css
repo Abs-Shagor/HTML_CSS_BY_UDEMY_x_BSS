@@ -1,14 +1,8 @@
 /* connecting font awesome by CDN */
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css");
 
-.container {
-    max-width: 1250px;
-    margin: 50px auto;
+body {
     font-family: Arial, Helvetica, sans-serif;
-
-    display: flex;
-    gap: 50px;
-    justify-content: center;
 }
 
 .card {
@@ -90,4 +84,33 @@
 }
 .right-mark {
     margin-right: 7px;
+}
+
+/* make the layout responsive */
+@media (min-width: 1024px) {
+    .responsive-container {
+        max-width: 1050px;
+        margin: 50px auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+    }
+}
+@media (min-width: 576px) and (max-width: 1023px) {
+    .responsive-container {
+        max-width: 900px;
+        margin: 50px auto;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+}
+@media (max-width: 575px) {
+    .responsive-container {
+        max-width: 300px;
+        margin: 50px auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 20px;
+    }
 }
