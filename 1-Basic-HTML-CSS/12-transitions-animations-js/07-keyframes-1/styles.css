@@ -1,3 +1,48 @@
 body {
   font-family: 'Arial', sans-serif;
 }
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(212, 208, 208)
+}
+
+@keyframes animate1 {
+  from {
+    width: 100px;
+  }
+  to {
+    width: 1000px;
+  }
+}
+.box1 {
+  width: 100px;
+  height: 100px;
+  background-color: orangered;
+  
+  animation: animate1 10s linear infinite;
+}
+
+@keyframes animate2 {
+  0% {
+    width: 100px;
+    height: 100px
+  }
+  50% {
+    width: 550px;
+    height: 200px;
+  }
+  100% {
+    width: 1000px;
+    height: 300px;
+  }
+}
+.box2 {
+  margin-top: 20px;
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 255, 13);
+
+  animation: animate2 10s linear infinite;
+}
