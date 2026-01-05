@@ -72,20 +72,41 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Select by type attribute */
-
+/* Select by type/tag attribute */
+input {
+  border: 1px solid violet;
+}
+textarea {
+  border-bottom: 1px solid green;
+}
 /* Select by name attribute */
+input[name='email'] {
+  border-color: red;
+}
 
-/* Select text type and id of name */
+/* Select text type  */
+button[type='submit'] {
+  background-color: green;
+}
 
 /* Select required inputs */
+input[required] {
+  border-radius: 10px;
+}
 
-/* Select password with a maxlength of 8 */
 
-/* Select button with type of submit */
-
-/* Select only links that have a href attribute starting with # */
+/* Select only links that have a href attribute starting with #about */
+a[href^='#about'] {
+  color: red;
+}
 
 /* Select only links that have a href attribute ending with .com */
+a[href$='.com'] {
+  color: yellow;
+}
 
 /* Select only links that have a href attribute containing traversy */
+a[href*='Shagor'] {
+  color: black;
+  font-size: 20px;
+}

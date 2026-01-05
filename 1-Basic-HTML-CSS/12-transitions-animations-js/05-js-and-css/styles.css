@@ -1,3 +1,13 @@
 body {
   font-family: Arial, sans-serif;
 }
+
+.btnClass {
+  margin-top: 100px;
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}

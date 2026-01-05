@@ -1,3 +1,28 @@
 body {
   font-family: Arial, sans-serif;
 }
+
+.btn {
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+
+  transition: background-color 0.8s ease;
+}
+.btn:hover {
+  background-color: green;
+}
+
+.btn2 {
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: gray;
+  color: white;
+
+  transition: background-color 0.5s ease, color 0.5s ease;
+}
+.btn2:hover {
+  background-color: green;
+  color: aqua;
+}

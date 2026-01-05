@@ -21,13 +21,22 @@ body {
 ~ Adjacent Sibling Combinator
 */
 
-/* Get only paragraphs that are direct children of container */
+/* color all the paragraph red which are in the container  */
+.container p {
+  color: red;
+}
+/* underline the paragraph which are immediate children of container*/
+.container>p {
+  text-decoration: underline 2px solid black;
+}
 
-/* Get only unordered lists that are direct children of container */
-
-/* Get only links that are direct children of container */
-
+/* bold the links that are direct children of container */
+.container > a {
+  font-weight: bold;
+}
 /* Get the immidiate sibling link after h1 */
+.container h1+a {
+  color: green;
+}
 
-/* Get all links that are siblings that come after h1 */
 

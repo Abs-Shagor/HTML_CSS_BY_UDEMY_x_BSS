@@ -1,3 +1,49 @@
 body {
   font-family: 'Arial', sans-serif;
 }
+
+.img1 {
+  transition: all 1.3s;
+}
+.img1:hover {
+  transform: rotate(360deg);
+}
+
+.img2 {
+  transition: all 1.5s;
+}
+.img2:hover {
+  transform: translateX(500px)
+}
+
+.img3 {
+  transition: all 1s ;
+}
+.img3:hover {
+  transform: translateY(300px);
+}
+
+.img4 {
+  transition: all 1s;
+}
+.img4:hover {
+  transform: scale(.7);
+}
+
+.btn {
+  margin-block: 50px;
+  padding: 10px 30px;
+  background-color: rgb(2, 144, 2);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0 5px 5px gray;
+
+  transition: background-color .7s ease;
+  transition: all .7s;
+}
+.btn:hover {
+  background-color: rgb(3, 94, 3);
+  transform: scale(.97);
+}

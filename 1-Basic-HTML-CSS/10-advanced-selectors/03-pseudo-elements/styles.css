@@ -23,3 +23,20 @@ input {
   width: 100%;
   padding: 5px;
 }
+
+/* changing the color of the first line of the paragraph of the container and bold the first letter */
+.container p::first-line {
+  color: green;
+}
+.container p::first-letter {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/* using pseudo class change the background color when focus on input and change the color of item when hover */
+input:focus {
+  background-color: aqua;
+}
+ul li:hover {
+  color: red;
+}
