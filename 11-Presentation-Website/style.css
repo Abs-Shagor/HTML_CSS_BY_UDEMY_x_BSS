@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+.page {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#page1 {
+    background-color: #3B76AB;
+}
+#page2 {
+    background-color: #5B4EC3;
+}
+#page3 {
+    background-color: rebeccapurple;
+}
+#page4 {
+    background-color: rgb(65, 23, 107);
+}
+#page5 {
+    background-color: rgb(35, 8, 62);
+}
+
+.btn {
+    display: inline-block;
+    padding: 5px 15px;
+    margin-left: 10px;
+    border-radius: 15px;
+    box-shadow: 0 3px 5px gray;
+
+    transition: all 1s;
+}
+.btn1 {
+    color: white;
+    background-color: black;
+}
+.btn2 {
+    color: black;
+    background-color: white;
+}
+.btn1:hover {
+    transform: scale(.95);
+    /* color: black; */
+    /* background-color: white; */
+}
+.btn2:hover {
+    transform: scale(.95);
+    /* color: white; */
+    /* background-color: black; */
+}
