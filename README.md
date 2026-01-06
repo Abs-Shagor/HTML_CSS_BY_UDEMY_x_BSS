@@ -23,7 +23,12 @@ This repository includes multiple small to medium-sized projects designed to str
 | **VJudge** | sdas szfgasg dfgassssss | [Link](https://vjudge.net/user/Abs_Shagor56) | [Visit](https://vjudge.net/user/Abs_Shagor56) |
 
 ## 🛠️ Technologies Used
-- loading...
+- HTML5
+- CSS3
+- VS Code
+- Google Fonts
+- Font Awesome
+- Netlify / Vercel for hosting
 
 ## 📸 Screenshots
 - loading...
