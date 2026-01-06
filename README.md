@@ -36,7 +36,7 @@ This repository includes multiple small to medium-sized projects designed to str
 ## 🧑‍💻 How to Use
 1. Clone the repository
 ```bash
-git clone https://github.com/aaa
+git clone https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS.git
 ```
 2. Navigate to the project folder:
 ```bash
