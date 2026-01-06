@@ -78,4 +78,6 @@ code .
 - Debugging and optimization
 
 ## 🧾 Acknowledgements
-- loading...
+I would like to express my gratitude to:
+- **Ahmmad Asheq Bin Mazib** and **Bangladesh Software Solution (BSS)** for giving me the opportunity and support to complete this Udemy course as part of my professional development
+- **Brad Traversy** for creating and teaching the "Modern HTML & CSS From The Beginning 2.0" course
