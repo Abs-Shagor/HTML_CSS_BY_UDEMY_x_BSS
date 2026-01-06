@@ -32,7 +32,7 @@ This repository includes multiple small to medium-sized projects designed to str
 
 ## 📸 Screenshots
 ### Pricing Grid
-![Pricing Grid Page](./screenshots/pricing_grid.png)
+![Pricing Grid Page](./12-Screenshots/pricing_grid.png)
 
 ## 🧑‍💻 How to Use
 1. Clone the repository
