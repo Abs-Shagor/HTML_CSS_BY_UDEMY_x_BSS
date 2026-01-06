@@ -51,11 +51,11 @@ code .
 
 ## 🧠 What I Learned
 
-### HTML5
+#### HTML5
 - Writing clean, semantic HTML5 code
 - Creating accessible, well-structured documents
 
-### CSS3
+#### CSS3
 - Styling modern, responsive layouts using CSS3
 - Using Flexbox and Grid for complex, responsive layouts 
 - Creating CSS Transitions for smooth hover effects.
@@ -63,15 +63,15 @@ code .
 - Building Keyframe Animations with `@keyframes` for complex animations
 - Practical use of icons and external fonts (Font Awesome, Google Fonts)
 
-### UI Components
+#### UI Components
 - Reusable components
 - Animated hamburger menus
 - Interactive navigation
 
-### JavaScript
+#### JavaScript
 - Basic DOM manipulation
 
-### Project Skills
+#### Project Skills
 - Scalable project structure
 - Responsive design principles
 - Git/GitHub workflow
