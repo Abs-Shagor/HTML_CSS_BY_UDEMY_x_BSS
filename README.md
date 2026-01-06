@@ -32,8 +32,15 @@ This repository includes multiple small to medium-sized projects designed to str
 
 ## 📸 Screenshots
 
+## Lumina Creative Website
+![Lumina Creative Website](./12-Screenshots/Lumina.png)
+
+## Bono App
+![Bono App](./12-Screenshots/Bono_app.png)
+
 ## Pricing Grid
-![Pricing Grid Page](./12-Screenshots/pricing_grid.png)
+![Pricing Grid](./12-Screenshots/pricing_grid.png)
+
 
 ## 🧑‍💻 How to Use
 1. Clone the repository
