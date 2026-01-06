@@ -9,12 +9,12 @@ This course was completed as part of my professional development training at **B
 
 This repository includes multiple small to medium-sized projects designed to strengthen the understanding of:
 - Semantic HTML5 structure
-- Modern CSS layout techniques (Flexbox & Grid)
-- Responsive web design and media queries
-- CSS animations and transitions
+- Modern CSS layout techniques using Flexbox/Grid.
+- Responsive web design with media queries
+- Created animations using CSS transitions, transforms, and keyframes
 - Utility classes and reusable CSS components
-- Font Awesome icons and Google Fonts integration
-- Clean, maintainable folder and file structure
+- Integrated icons and external fonts (Font Awesome, Google Fonts)
+- Organized projects with clean, maintainable folder structures
 
 ## 📋 Project List
 
