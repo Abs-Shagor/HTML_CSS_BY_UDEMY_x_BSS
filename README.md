@@ -50,7 +50,32 @@ code .
 5. Practice by modifying layouts, styles, and adding new features.
 
 ## 🧠 What I Learned
-- loading...
+
+### HTML5
+- Clean, semantic markup
+- Accessible document structure
+
+### CSS3
+- Responsive layouts with Flexbox/Grid
+- Transitions, Transforms, Animations
+- Responsive typography and spacing
+- Icons and external fonts integration
+
+### UI Components
+- Reusable components
+- Animated hamburger menus
+- Interactive navigation
+
+### JavaScript
+- Basic DOM manipulation
+- Event handling
+- Class toggling for dynamic styling
+
+### Project Skills
+- Scalable project structure
+- Responsive design principles
+- Git/GitHub workflow
+- Debugging and optimization
 
 ## 🧾 Acknowledgements
 - loading...
