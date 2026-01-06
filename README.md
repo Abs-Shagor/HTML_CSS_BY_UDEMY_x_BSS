@@ -52,14 +52,16 @@ code .
 ## 🧠 What I Learned
 
 ### HTML5
-- Clean, semantic markup
-- Accessible document structure
+- Writing clean, semantic HTML5 code
+- Creating accessible, well-structured documents
 
 ### CSS3
-- Responsive layouts with Flexbox/Grid
-- Transitions, Transforms, Animations
-- Responsive typography and spacing
-- Icons and external fonts integration
+- Styling modern, responsive layouts using CSS3
+- Using Flexbox and Grid for complex, responsive layouts 
+- Creating CSS Transitions for smooth hover effects.
+- Implementing CSS Transforms (translate, rotate, scale)
+- Building Keyframe Animations with `@keyframes` for complex animations
+- Practical use of icons and external fonts (Font Awesome, Google Fonts)
 
 ### UI Components
 - Reusable components
@@ -68,8 +70,6 @@ code .
 
 ### JavaScript
 - Basic DOM manipulation
-- Event handling
-- Class toggling for dynamic styling
 
 ### Project Skills
 - Scalable project structure
