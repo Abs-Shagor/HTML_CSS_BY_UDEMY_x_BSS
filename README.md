@@ -21,8 +21,8 @@ This repository includes multiple small to medium-sized projects designed to str
 | Project Name | Description | Live Demo | Source Code |
 |---------------|----------|-------------|-----------------|
 | **Lumina Creative** | A layout with navigation, image gallery, about, contact and footer sections. | [Link](https://lumina77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/10-Lumina-Creative-Website) |
-| **Bono App** | A responsive contact form with gradient background. | [Link](https://bonoapp77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/8-Bono-Landing-Form-Mini-Project) |
-| **Pricing Grid** | A simple responsive pricing grid layout. | [Link](https://pricinggrid77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/7-Pricing-Grid-Challenge) |
+| **Bono App**        | A responsive contact form with gradient background. | [Link](https://bonoapp77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/8-Bono-Landing-Form-Mini-Project) |
+| **Pricing Grid**    | A simple responsive pricing grid layout. | [Link](https://pricinggrid77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/7-Pricing-Grid-Challenge) |
 
 
 ## 🛠️ Technologies Used
