@@ -38,9 +38,16 @@ This repository includes multiple small to medium-sized projects designed to str
 ```bash
 git clone https://github.com/aaa
 ```
-2. Open the project folder in your editor (VS Code recommended)
-3. Open any index.html file directly in your browser
-4. Explore and modify the code to practice HTML & CSS concepts
+2. Navigate to the project folder:
+```bash
+cd repository-name
+```
+3. Open the project in VS Code (or your preferred editor):
+```bash
+code .
+```
+4. Open any index.html file directly in your browser to view the project.
+5. Practice by modifying layouts, styles, and adding new features.
 
 ## 🧠 What I Learned
 - loading...
