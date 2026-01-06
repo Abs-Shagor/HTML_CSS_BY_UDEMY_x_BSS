@@ -31,7 +31,8 @@ This repository includes multiple small to medium-sized projects designed to str
 - Netlify / Vercel for hosting
 
 ## 📸 Screenshots
-- loading...
+### Pricing Grid
+![Pricing Grid Page](./screenshots/pricing_grid.png)
 
 ## 🧑‍💻 How to Use
 1. Clone the repository
