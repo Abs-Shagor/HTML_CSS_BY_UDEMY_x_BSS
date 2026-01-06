@@ -33,9 +33,7 @@ This repository includes multiple small to medium-sized projects designed to str
 ## 📸 Screenshots
 
 ## Lumina Creative Website
-![Lumina Creative Website](./12-Screenshots/Lumina.png)
-
-![Lumina Creative Website](./12-Screenshots/Lumina2.png)
+![Lumina Creative Website](./12-Screenshots/Lumina_website.png)
 
 ## Bono App
 ![Bono App](./12-Screenshots/Bono_app.png)
