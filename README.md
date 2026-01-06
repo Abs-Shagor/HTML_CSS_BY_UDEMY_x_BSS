@@ -34,7 +34,13 @@ This repository includes multiple small to medium-sized projects designed to str
 - loading...
 
 ## 🧑‍💻 How to Use
-- loading...
+1. Clone the repository
+```bash
+git clone https://github.com/aaa
+
+2. Open the project folder in your editor (VS Code recommended)
+3. Open any index.html file directly in your browser
+4. Explore and modify the code to practice HTML & CSS concepts
 
 ## 🧠 What I Learned
 - loading...
