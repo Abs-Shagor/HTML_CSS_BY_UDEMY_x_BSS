@@ -646,7 +646,7 @@ textarea:focus {
         width: 80%;
     }
     .footer-menu-list {
-        font-size: 14px;
-        gap: 10px;
+        font-size: 10px;
+        gap: 7px;
     }
 }
