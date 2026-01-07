@@ -11,6 +11,7 @@ This repository includes multiple small to medium-sized projects designed to str
 - Semantic HTML5 structure
 - Modern CSS layout techniques using Flexbox/Grid.
 - Responsive web design with media queries
+- used FormSpree for contact form submit
 - Created animations using CSS transitions, transforms, and keyframes
 - Utility classes and reusable CSS components
 - Integrated icons and external fonts (Font Awesome, Google Fonts)
@@ -29,6 +30,7 @@ This repository includes multiple small to medium-sized projects designed to str
 - HTML5
 - CSS3
 - VS Code
+- FormSpree
 - Google Fonts
 - Font Awesome
 - Netlify / Vercel for hosting
