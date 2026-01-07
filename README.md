@@ -94,6 +94,7 @@ code .
 - Responsive design principles
 - Git/GitHub workflow
 - Debugging and optimization
+- Real-time message sending via Formspree
 
 ## 🧾 Acknowledgements
 I would like to express my gratitude to:
