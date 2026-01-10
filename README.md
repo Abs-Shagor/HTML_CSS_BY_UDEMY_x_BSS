@@ -21,7 +21,8 @@ This repository includes multiple small to medium-sized projects designed to str
 
 | Project Name | Description | Live Demo | Source Code |
 |----------------|----------|-------------|-----------------|
-| **TuTor**            | A video course platform for mastering in-demand professional skills with hands‑on, project‑based lessons. | [Link](https://tutor77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/13-Tutor-Project) |
+| **Leno**             | Leno: A modern, responsive landing page template for showcasing app features, previews, details, and downloads with a modern, user-friendly design. | [Link](https://leno77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/14-Leno-Project) |
+| **TuTor**            | Tutor: A video course platform for mastering in-demand professional skills with hands‑on, project‑based lessons. | [Link](https://tutor77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/13-Tutor-Project) |
 | **Lumina Creative**  | A layout with navigation, image gallery, about, contact and footer sections. | [Link](https://lumina77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/10-Lumina-Creative-Website) |
 | **Bono App**         | A responsive contact form with gradient background. | [Link](https://bonoapp77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/8-Bono-Landing-Form-Mini-Project) |
 | **Pricing Grid**     | A simple responsive pricing grid layout. | [Link](https://pricinggrid77.netlify.app/) | [Visit](https://github.com/Abs-Shagor/HTML_CSS_BY_UDEMY_x_BSS/tree/main/7-Pricing-Grid-Challenge) |
@@ -34,9 +35,12 @@ This repository includes multiple small to medium-sized projects designed to str
 - FormSpree
 - Google Fonts
 - Font Awesome
-- Netlify / Vercel for hosting
+- Netlify for hosting
 
 ## 📸 Screenshots
+
+## Leno
+![Leno Website](./12-Screenshots/leno.png)
 
 ## TuTor
 ![Tutor Website](./12-Screenshots/tutor.png)
