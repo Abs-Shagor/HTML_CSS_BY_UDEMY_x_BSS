@@ -10,6 +10,7 @@ hamburger.addEventListener('click', () => {
   icon.classList.toggle('fa-xmark');
 
 });
+
 // Changing navbar background color on scroll
 window.addEventListener('scroll',  ()=> {
   const navbar = document.querySelector('.navbar');
@@ -20,3 +21,19 @@ window.addEventListener('scroll',  ()=> {
     navbar.classList.remove('navbar-scroll');
   }
 });
+
+// modal(preview section): to show video on click
+const modal = document.getElementById('modal-id');
+const iframeVideo = document.getElementById('modal-iframe-id');
+const videoButton = document.getElementById('video-btn-id');
+const closeButton = document.getElementById('close-btn-id');
+
+videoButton.addEventListener('click', ()=> {
+  modal.style.display = 'block';
+  iframeVideo.src = 'https://www.youtube.com/embed/yVYQeDhAQWk?si=bURDOW_Ga-asH2YO';
+})
+
+closeButton.addEventListener('click', ()=> {
+  modal.style.display = 'none';
+  iframeVideo.src = '';
+})
