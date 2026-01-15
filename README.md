@@ -16,6 +16,7 @@ This repository includes multiple small to medium-sized projects designed to str
 - Utility classes and reusable CSS components
 - Integrated icons and external fonts (Font Awesome, Google Fonts)
 - Organized projects with clean, maintainable folder structures
+- used netlify for Hosting
 
 ## 📋 Project List
 
