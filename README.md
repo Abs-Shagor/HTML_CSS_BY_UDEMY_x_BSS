@@ -90,6 +90,7 @@ code .
 - Reusable components
 - Animated hamburger menus
 - Interactive navigation
+- image light-box
 
 #### JavaScript
 - Basic DOM manipulation
