@@ -105,7 +105,7 @@ a[href$='.com'] {
   color: yellow;
 }
 
-/* Select only links that have a href attribute containing traversy */
+/* Select only links that have a href attribute containing Shagor */
 a[href*='Shagor'] {
   color: black;
   font-size: 20px;

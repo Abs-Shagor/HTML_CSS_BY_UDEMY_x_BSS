@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- logo+title -->
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <title>Welcome To Tutor</title>
+
+    <!-- Open sans font from google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
+        rel="stylesheet">
+
+    <!-- connecting font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <!-- connecting css file -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar" role="navigation" aria-label="navbar">
+        <div class="container navbar-flex">
+            <a href="index.html" aria-label="Logo of tutor website">
+                <img src="images/logo.svg" alt="logo not found" />
+            </a>
+
+            <!-- main menu -->
+            <div class="main-menu-items">
+                <ul class="main-menu-list">
+                    <li> <a href="index.html">Home</a> </li>
+                    <li> <a href="index.html#courseId">Chapters</a> </li>
+                    <li> <a href="index.html#summaryId">Summary</a> </li>
+                    <li> <a href="index.html#takeawaysId">Takeaways</a> </li>
+                    <li> <a href="index.html#authorId">Author</a> </li>
+                    <li> <a href="contact.html">Contact</a> </li>
+                    <li><a href="https://www.facebook.com/absShagor99" target="_blank"
+                            aria-label="Follow us on github"><i class="fab fa-facebook"></i></a></li>
+                    <li> <a href="https://x.com/siddik56u" target="_blank" aria-label="Follow Us On X"> <i
+                                class="fab fa-twitter"></i> </a> </li>
+                </ul>
+            </div>
+
+            <!-- Hamburger Menu -->
+            <div class="hamburger-menu">
+                <div id="hamburgerId" class="hamburger-icon" role="button" aria-expanded="false"
+                    aria-controls="hamburger-menu-items" aria-label="Open hamburger menu" tabindex="0">
+                    <i class="fas fa-bars fa-2x"></i>
+                </div>
+                <div id="hamburger-menu-items" class="hamburger-menu-items">
+                    <ul class="hamburger-menu-list">
+                        <li> <a href="index.html">Home</a> </li>
+                        <li> <a href="index.html#courseId">Chapters</a> </li>
+                        <li> <a href="index.html#summaryId">Summary</a> </li>
+                        <li> <a href="index.html#takeawaysId">Takeaways</a> </li>
+                        <li> <a href="index.html#authorId">Author</a> </li>
+                        <li> <a href="contact.html">Contact</a> </li>
+                        <li><a href="https://www.facebook.com/absShagor99" target="_blank"
+                                aria-label="Follow us on github"><i class="fab fa-facebook"></i></a></li>
+                        <li> <a href="https://x.com/siddik56u" target="_blank" aria-label="Follow Us On X"> <i
+                                    class="fab fa-twitter"></i> </a> </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero section -->
+    <header class="hero-section">
+        <div class="container2 contact-padding">
+            <h1>Contact Us</h1>
+        </div>
+
+    </header>
+
+
+    <section id="contactId"></section>
+    <!-- Contact us section -->
+    <section class="contact-us-grid container2 ">
+        <p>We love to create dependable business are solutions for small and medium sized word companies. Email our
+            office using contact@website.com or call us using +123-456-7890</p>
+        <div class="contact-form">
+            <form action="https://formspree.io/f/xjgknrvv" method="POST">
+                <input type="text" name="name" id="name" required placeholder="Name" />
+                <input type="email" name="email" id="email" required placeholder="Email" />
+                <textarea name="message" id="message" required placeholder="Message"></textarea>
+
+                <button type="submit" class="btn">
+                    Send Message <i class="fas fa-paper-plane"></i>
+                </button>
+            </form>
+        </div>
+
+    </section>
+
+
+    <!-- office location section -->
+    <section class="location section container2 section-gap">
+        <div>
+            <h1>Office Location</h1>
+            <p>
+                View our office location on the map to easily find directions and plan your visit.
+            </p>
+            <div class="map">
+                <iframe src="https://www.google.com/maps?q=Chittagong,Bangladesh&output=embed" loading="lazy"
+                    allowfullscreen>
+                </iframe>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Footer section -->
+    <section class="footer-section section-gap">
+        <p class="footer-title">Follow us on social media for updates and news about our courses.</p>
+        <div class="social container">
+            <a href="https://www.facebook.com/absShagor99" target="_blank" aria-label="Follow us on github"><i
+                    class="fab fa-facebook"></i></a>
+            <a href="https://x.com/siddik56u" target="_blank" aria-label="Follow Us On X"> <i
+                    class="fab fa-twitter"></i> </a>
+            <a href="https://www.linkedin.com/in/mohammad-abu-bakkar-siddik-abs-shagor-829451295/" target="_blank"
+                aria-label="Follow us on linkedin">
+                <i class="fab fa-linkedin"></i></a>
+            <a href="https://github.com/Abs-Shagor" target="_blank" aria-label="Follow us on github">
+                <i class="fa-brands fa-github social-icon"></i></a>
+            <a href="https://www.youtube.com/" target="_blank" aria-label="Follow Us On X"> <i
+                    class="fab fa-youtube"></i> </a>
+            <a href="https://www.pinterest.com/" target="_blank" aria-label="Follow Us On X"> <i
+                    class="fab fa-pinterest"></i> </a>
+        </div>
+
+        <div class="footer-hr"></div>
+        <div class="reserved-flex container">
+            <ul class="footer-menu-list">
+                <li> <a href="index.html">Home</a> </li>
+                <li> <a href="index.html">Terms</a> </li>
+                <li> <a href="index.html">Privacy</a> </li>
+                <li> <a href="contact.html">Contact</a> </li>
+            </ul>
+            <div class="reserved">
+                © 2026-2027 Tutor. All rights reserved
+            </div>
+        </div>
+    </section>
+
+
+    <!-- connecting js file -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>
