@@ -42,7 +42,7 @@ This repository includes multiple small to medium-sized projects designed to str
 
 ## Leno
 ![Leno Website](./12-Screenshots/leno.png)
-
+<img src="./12-Screenshots/leno.png" width="100%" />
 ## TuTor
 ![Tutor Website](./12-Screenshots/tutor.png)
 
