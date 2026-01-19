@@ -44,7 +44,7 @@ This repository includes multiple small to medium-sized projects designed to str
 ![Leno Website](./12-Screenshots/leno.png)
 
 ## TuTor
-![Tutor Website](./12-Screenshots/pricing_grid.png)
+![Tutor Website](./12-Screenshots/tutor.png)
 
 ## Lumina Creative Website
 ![Lumina Creative Website](./12-Screenshots/Lumina_website.png)
