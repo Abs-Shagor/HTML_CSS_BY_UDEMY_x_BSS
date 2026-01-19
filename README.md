@@ -41,10 +41,10 @@ This repository includes multiple small to medium-sized projects designed to str
 ## 📸 Screenshots
 
 ## Leno
-![Leno Website](./12-Screenshots/leno.png)
+![Leno Website](./12-Screenshots/pricing_grid.png)
 
 ## TuTor
-![Tutor Website](./12-Screenshots/tutor.png)
+![Tutor Website](./12-Screenshots/pricing_grid.png)
 
 ## Lumina Creative Website
 ![Lumina Creative Website](./12-Screenshots/Lumina_website.png)
