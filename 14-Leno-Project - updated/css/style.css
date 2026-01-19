@@ -9,6 +9,7 @@
     --color2: #262431;
     --color3: #2f2c3d;
     --color4: #444251;
+    --color5: #9f9caf;
 }
 
 html,
@@ -178,17 +179,17 @@ img {
 .hero-section {
     background: black url('../images/header-background.jpg') center/cover no-repeat;
     color: white;
+    padding-top: 70px;
 }
 
 .hero-flex {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
-    /* padding-block: 100px; */
 }
 
 .hero-flex img {
-    max-width: 400px;
+    max-width: 470px;
     margin: 0px auto;
 }
 
@@ -215,11 +216,16 @@ img {
 }
 
 .hero-btn-flex {
-    max-width: 330px;
+    max-width: 370px;
+    margin: 0px auto;
     display: flex;
     gap: 10px;
     justify-content: space-between;
     align-items: center;
+}
+
+.hero-btn-flex .btn {
+    padding: 17px 32px;
 }
 
 .hero-section-team {
@@ -496,50 +502,7 @@ img {
     margin: 0px auto;
 }
 
-/* footer section */
-.footer-section {
-    background-color: black;
-    color: white;
-    padding-block: 70px;
-}
 
-.footer-menu-list a {
-    color: white;
-}
-
-.footer-menu-list a:hover {
-    color: var(--color1);
-}
-
-.footer-menu-list {
-    color: white;
-    display: flex;
-    gap: 35px;
-    justify-content: center;
-}
-
-.social a {
-    color: white;
-}
-
-.social a:hover {
-    color: var(--color1);
-}
-
-.social i {
-    font-size: 30px;
-}
-
-.social {
-    margin-block: 30px;
-    display: flex;
-    gap: 40px;
-    justify-content: center;
-}
-
-.reserved {
-    text-align: center;
-}
 
 
 /* pricing section */
@@ -619,7 +582,68 @@ h2 {
 }
 
 
+/* footer section */
+.footer-section {
+    color: white;
+    padding-block: 70px;
+}
 
+.footer-menu-list a {
+    color: var(--color5);
+}
+
+.footer-menu-list a:hover {
+    color: white;
+}
+
+.footer-menu-list {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    margin-top: 15px;
+    font-size: 14px;
+}
+
+.leno-about {
+    max-width: 300px;
+}
+
+.leno-about p {
+    margin-top: 15px;
+    font-size: 14px;
+    color: var(--color5);
+}
+
+.footer-left {
+    display: flex;
+    gap: 100px;
+}
+
+.footer-flex {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social a {
+    color: var(--color5);
+}
+
+.social a:hover {
+    color: white;
+}
+
+.social i {
+    font-size: 40px;
+}
+
+.social {
+    margin-block: 30px;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
 
 
 /*** Media Queries ***/
@@ -690,6 +714,17 @@ h2 {
         gap: 70px;
     }
 
+    .footer-flex {
+        flex-direction: column;
+    }
+
+    .footer-left {
+        gap: 20px;
+    }
+
+    .leno-about {
+        max-width: 200px;
+    }
 }
 
 @media (max-width: 768px) {
@@ -726,6 +761,10 @@ h2 {
 
     .hero-btn-flex {
         margin: 0px auto;
+    }
+
+    .hero-btn-flex .btn {
+        padding: 12px 22px;
     }
 
     .hero-section-team {
